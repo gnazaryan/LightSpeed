@@ -30,7 +30,7 @@ public class App {
     /**
      * The main deep copy internal method, which runs recursively
      *
-     * @param obj The input object to make a deep copy.
+     * @param object The input object to make a deep copy.
      * @param copiedObjects Map to cache already copied objects.
      * @return The deep copied resulting object
      */
